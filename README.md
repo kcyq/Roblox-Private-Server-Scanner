@@ -1,4 +1,4 @@
-# Roblox Link Scanner
+# Roblox Link Scanner 1.0.0
 [VirusTotal](https://www.virustotal.com/gui/file/532f2d7a5397fdc39d8d9b060bde837f84ced69d5553dd4c08fc37807d36ec30)
 
 This tool is too be used to scan Roblox Vip Links.
